@@ -1,0 +1,10 @@
+app-type: jetpack
+github-owner: corp
+name: cbp-foundations-deck
+org: cbpf
+spinnaker-app: jet_cbpf_cbp_foundations_deck
+team-email: nathanieljonesallreports@netflix.com
+workspace:
+  config:
+    include:
+      - nodequark/tool-version/nodequark-v12.yml
