@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__plugin_figma_figma__get_design_context",
+      "Bash(rsync:*)",
+      "Bash(grep:*)",
+      "Bash(mv Slide06.jsx Slide05.jsx)",
+      "Bash(mv Slide07.jsx Slide06.jsx)",
+      "Bash(mv Slide08.jsx Slide07.jsx)",
+      "Bash(mv Slide09.jsx Slide08.jsx)",
+      "Bash(mv Slide10.jsx Slide09.jsx)",
+      "Bash(node_modules/.bin/vite build:*)",
+      "mcp__plugin_figma_figma__get_metadata",
+      "mcp__plugin_figma_figma__use_figma",
+      "mcp__plugin_figma_figma__get_screenshot",
+      "Bash(mv Slide11.jsx Slide10.jsx)",
+      "Bash(mv Slide12.jsx Slide11.jsx)",
+      "Bash(mv Slide13.jsx Slide12.jsx)"
+    ]
+  }
+}
