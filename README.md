@@ -2,6 +2,8 @@
 
 A React-based slide deck framework designed to be used as a **template for AI-assisted presentations**. The visual design, color palette, typography, and layout patterns are intentionally preserved so that Claude (or another AI) can generate new slide content while staying true to the original aesthetic.
 
+> **Note:** This is a vibe coded version of an original Figma Slides deck: [Foundations in a nutshell](https://www.figma.com/slides/fb6pIDZTavvf9to49uCgQa/Foundations-in-a-nutshell?node-id=0-1&p=f&t=9FLpKRDb7cqzSDa1-0)
+
 ## What This Is
 
 This repo contains a polished slide presentation built with React + Vite. It renders a fixed 1920×1080 canvas that scales to fit any screen, with keyboard navigation between slides.
